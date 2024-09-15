@@ -3,14 +3,14 @@
 <h2 align="center">Polynomial Calculator</h2>
 
 <p align="center">
-The Polynomial Calculator is designed for effective polynomial manipulation and mathematical operations. Key challenges included implementing correct algorithms and performing rigorous testing to ensure accuracy.
+The Polynomial Calculator enables polynomial manipulation and operations through a graphical interface. Users can input polynomials, select operations (addition, subtraction, multiplication, division, derivative, integration), and view results.
 </p>
 
-<h3>Future Enhancements:</h3>
+<h3>Key Features:</h3>
 <ul>
-  <li>Advanced GUI features for improved user interaction.</li>
-  <li>Support for polynomials with complex coefficients.</li>
-  <li>Capabilities for saving and loading polynomial data.</li>
+  <li>GUI: Built with Java Swing or JavaFX</li>
+  <li>Operations: Supports addition, subtraction, multiplication, division, derivative, and integration/li>
+  <li>Design: Object-oriented with classes like Polynomial and Monomial; uses Map for polynomial modeling</li>
 </ul>
 
 <h2 align="center">Queue Management Simulation</h2>
