@@ -1,0 +1,6 @@
+The Polynomial Calculator is effective for polynomial manipulation and mathematical operations. Challenges included correct algorithm implementation and rigorous testing. Future improvements could include advanced GUI features, support for complex coefficients, and data saving/loading capabilities.
+
+The main goal is to implement a simulation system for managing queues using object-oriented programming in Java along with threading.
+Managing threads posed significant challenges. Future improvements will include references and additional resources consulted during implementation.
+
+The Orders Management application has been successfully implemented using object-oriented design principles and a layered architecture, adhering to Java naming conventions. It includes a GUI for managing clients, products, and orders, with functionality for adding, editing, and deleting entries, as well as handling stock and generating orders. The application uses a relational database with tables for clients, products, and orders, and leverages reflection techniques for dynamic database operations and table header generation. Additionally, an immutable `Bill` class has been defined using Java records for logging purposes, ensuring that bills are only inserted and read from the Log table.
