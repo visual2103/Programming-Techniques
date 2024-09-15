@@ -1,6 +1,6 @@
-Project Overview
+#Project Overview
 
-Polynomial Calculator
+##Polynomial Calculator
 
 The Polynomial Calculator is designed for effective polynomial manipulation and mathematical operations. Key challenges included implementing correct algorithms and performing rigorous testing to ensure accuracy. Future enhancements could focus on:
 
@@ -8,7 +8,7 @@ Advanced GUI features for improved user interaction.
 Support for polynomials with complex coefficients.
 Capabilities for saving and loading polynomial data.
 
-Queue Management Simulation
+##Queue Management Simulation
 
 The Queues Management Application efficiently assigns clients to queues to minimize their waiting times. This application simulates client arrivals, queue management, and service processing using threads and synchronization mechanisms.
 
@@ -21,7 +21,7 @@ Simulation: Simulates client arrivals and queue processing over a defined time p
 Logging: Tracks and displays the status of waiting clients and queues throughout the simulation.
 User Interface: Provides a graphical user interface for simulation setup and real-time queue status display.
 
-Orders Management Application
+##Orders Management Application
 
 The Orders Management application has been successfully built using object-oriented design principles and a layered architecture, adhering to Java naming conventions. The application includes:
 
