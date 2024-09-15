@@ -6,7 +6,7 @@
 The Polynomial Calculator is designed for effective polynomial manipulation and mathematical operations. Key challenges included implementing correct algorithms and performing rigorous testing to ensure accuracy.
 </p>
 
-<h3 align="center">Future Enhancements:</h3>
+<h3>Future Enhancements:</h3>
 <ul>
   <li>Advanced GUI features for improved user interaction.</li>
   <li>Support for polynomials with complex coefficients.</li>
