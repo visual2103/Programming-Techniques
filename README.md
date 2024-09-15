@@ -8,7 +8,7 @@ The Polynomial Calculator enables polynomial manipulation and operations through
 
 <h3>Key Features:</h3>
 <ul>
-  <li>GUI: Built with Java Swing or JavaFX</li>
+  <li>GUI: Built with Java Swing </li>
   <li>Operations: Supports addition, subtraction, multiplication, division, derivative, and integration/li>
   <li>Design: Object-oriented with classes like Polynomial and Monomial; uses Map for polynomial modeling</li>
 </ul>
